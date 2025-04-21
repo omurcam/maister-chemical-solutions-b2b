@@ -111,9 +111,9 @@ const About = () => {
               </div>
               
               <div className="bg-white rounded-lg overflow-hidden shadow-md">
-                <img 
-                  src="/lovable-uploads/c7b45c44-2fad-4af8-92ba-4f3a835504cb.png"
-                  alt="Yunus Torun" 
+                <img            
+                  src="/lovable-uploads/f814cd5d-2f09-41fc-bae1-71fb321843c9.png"
+                  alt="Ömür Can Ayhan" 
                   className="w-full h-64 object-cover"
                 />
                 <div className="p-6">
@@ -127,8 +127,8 @@ const About = () => {
               
               <div className="bg-white rounded-lg overflow-hidden shadow-md">
                 <img 
-                  src="/lovable-uploads/f814cd5d-2f09-41fc-bae1-71fb321843c9.png"
-                  alt="Ömür Can Ayhan" 
+                  src="/lovable-uploads/c7b45c44-2fad-4af8-92ba-4f3a835504cb.png"
+                  alt="Yunus Torun"
                   className="w-full h-64 object-cover"
                 />
                 <div className="p-6">
